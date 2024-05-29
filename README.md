@@ -2,6 +2,7 @@
 Olá seja bem vindo no meu perfil
 
  meu nome  é Lucas 
+ tenho 17 anos 
 - estou estudando na [Alura] (https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
